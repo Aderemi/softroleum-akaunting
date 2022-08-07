@@ -47552,10 +47552,6 @@ body{
   background-size: 100% 2px;
 }
 
-.hover\:font-bold:hover{
-  font-weight: 700;
-}
-
 .hover\:font-medium:hover{
   font-weight: 500;
 }
@@ -47741,10 +47737,6 @@ body{
 .group:hover .group-hover\:text-white{
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
-}
-
-.group:hover .group-hover\:opacity-100{
-  opacity: 1;
 }
 
 [dir="ltr"] .ltr\:-right-1\.5{
